@@ -1,2 +1,2 @@
 # desert
- Find a well in the desert game
+사막에서 우물찾기 데스크탑 게임입니다.
